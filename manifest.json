@@ -1,7 +1,7 @@
 {
     "name": "Hikaru",
-    "version_number": "1.0.0",
-    "website_url": "https://www.youtube.com/GMHikaru",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/kossnikita/REPOHikaru",
     "description": "Replaces reaper sounds with GM Hikaru Nakamura",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
